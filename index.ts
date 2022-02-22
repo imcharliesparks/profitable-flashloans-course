@@ -1,3 +1,7 @@
-import runArbitrage from "./src/run-arbitrage"
+// import runArbitrage from "./src/run-arbitrage"
 
-runArbitrage()
+import { pollEthPrice } from "./src/shared/utils";
+
+// runArbitrage()
+
+pollEthPrice()

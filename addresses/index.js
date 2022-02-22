@@ -9,5 +9,5 @@ module.exports = {
     uniswap: uniswapMainnet,
     dydx: dydxMainnet,
     tokens: tokensMainnet
-  }
+  },
 };
